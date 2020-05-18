@@ -1,1 +1,1 @@
-Hello Welcome to VCS
+Hello Welcome to SCM
